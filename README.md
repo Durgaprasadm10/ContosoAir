@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/IdeabytesCICD/IoTApplication/_apis/build/status%2FDurgaprasadm10.ContosoAir?branchName=master)](https://dev.azure.com/IdeabytesCICD/IoTApplication/_build/latest?definitionId=2&branchName=master)# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
 # Microsoft.Github CI Demo
